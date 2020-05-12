@@ -1,0 +1,10 @@
+/**
+ * Auto Generated Java Class.
+ */
+public interface CostBasis {
+   
+  public double calcCost()
+  {
+  }// end method calcCost
+  
+}// end interface CostBasis
